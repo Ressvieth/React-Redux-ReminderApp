@@ -5,3 +5,6 @@ React+Redux+Bootstrap+moment.js small ReminderApp made during Udemy course (auth
 -> npm install
 
 -> npm start
+
+
+Set with create-react-app (https://github.com/facebookincubator/create-react-app)
